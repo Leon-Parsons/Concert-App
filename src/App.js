@@ -1,12 +1,11 @@
 import './App.css';
+import Musician from './components/Musician';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          hi
-        </p>
+        <Musician></Musician>
         <a
           className="App-link"
           href="https://reactjs.org"
