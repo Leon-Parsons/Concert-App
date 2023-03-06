@@ -1,5 +1,0 @@
-function Musician() {
-    return <h3>Here is a musician</h3>
-}
-
-export default Musician;
